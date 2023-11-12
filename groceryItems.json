@@ -1,11 +1,13 @@
 [
     {
         "itemName": "Apple",
-        "imageUrl": "https://example.com/apple.jpg"
+        "imageUrl": "https://i.ibb.co/BrxjWTf/Apples.png"
     },
     {
         "itemName": "Banana",
-        "imageUrl": "https://example.com/banana.jpg"
+        "imageUrl": "https://i.ibb.co/ngJj83t/Bananas.png"
+    },
+    {   "itemName": "Capsicum",
+        "imageUrl":"https://i.ibb.co/1ZYqSPC/unnamed.png"
     }
  ]
- 
