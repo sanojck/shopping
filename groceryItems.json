@@ -1,0 +1,11 @@
+[
+    {
+        "itemName": "Apple",
+        "imageUrl": "https://example.com/apple.jpg"
+    },
+    {
+        "itemName": "Banana",
+        "imageUrl": "https://example.com/banana.jpg"
+    }
+ ]
+ 
